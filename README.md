@@ -1,6 +1,6 @@
 #My git projetc
 
->My code for the git project
+>My scary merge conflict code
 >another testing
 
 >Made changes for git pull demo
